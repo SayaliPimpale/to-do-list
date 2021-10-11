@@ -4,7 +4,7 @@
 https://todo-sayali.netlify.app/
 
 ## Code URL :
-https://github.com/SayaliPimpale/MyCalculator
+https://github.com/SayaliPimpale/to-do-list
 
 ## github.io link :
 
