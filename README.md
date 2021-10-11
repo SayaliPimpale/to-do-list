@@ -1,7 +1,7 @@
 # Calculator
 
 ## Hosted URL :
-https://sayalicalculator.netlify.app/
+https://todo-sayali.netlify.app/
 
 ## Code URL :
 https://github.com/SayaliPimpale/MyCalculator
