@@ -7,7 +7,7 @@ https://todo-sayali.netlify.app/
 https://github.com/SayaliPimpale/to-do-list
 
 ## github.io link :
-
+https://sayalipimpale.github.io/to-do-list/
 
 ## Technologies Used : 
 HTML, CSS and JavaScript.
